@@ -14,4 +14,10 @@ Gradient 挂机脚本
 
 
 ## 节点启动 和 维护
-![QQ_1728875747249](https://github.com/user-attachments/assets/ccd10c06-ec7a-452f-ac23-8ad80678affb)
+> 功能 启动节点 和 Kill 节点
+> 1.启动所有节点 ./[sh文件名] start
+> 2.结束单个节点进程 ./[sh文件名] kill [客户端ID]
+> 3.结束所有节点 pkill -f Gradient-Tools.x64_linux
+
+![image](https://github.com/user-attachments/assets/ff81c50f-0dd9-4410-bab9-af2857f55cae)
+
