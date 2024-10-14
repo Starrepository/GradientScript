@@ -1,5 +1,6 @@
 # GradientScript
 Gradient 挂机脚本
+TG群：https://t.me/Web3um
 
 
 ## 使用教程
