@@ -25,7 +25,7 @@ TG群：https://t.me/Web3um
 ![image](https://github.com/user-attachments/assets/0e2fdf6a-1807-4e12-a7d2-4d7225a13c61)
 
 > proxy.ini 存放代理  一行一条 只支持http/https
-> 格式：http://user@pass@ip:port
+> 格式：http://user:pass@ip:port
 
 ![image](https://github.com/user-attachments/assets/89387bbe-f861-40bd-a304-78ed7f54d502)
 
