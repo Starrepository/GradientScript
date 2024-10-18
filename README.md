@@ -2,6 +2,16 @@
 Gradient 挂机脚本
 TG群：https://t.me/Web3um
 
+另外出售 双ISP节点 7r
+
+
+
+
+## 效果图片
+![telegram-cloud-photo-size-1-4904524851994279271-y](https://github.com/user-attachments/assets/05a60a43-1436-4cab-9a0b-059fc659ea5a)
+![image](https://github.com/user-attachments/assets/f184bd0b-f31e-4b92-9cfd-fb33d65c4829)
+
+
 
 ## 使用教程
 ### 配置文件教程
