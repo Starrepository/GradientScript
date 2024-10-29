@@ -43,3 +43,10 @@ TG群：https://t.me/Web3um
 
 ![image](https://github.com/user-attachments/assets/ff81c50f-0dd9-4410-bab9-af2857f55cae)
 
+
+## 傻瓜教程
+> 第一次使用 配置文件和代理修改好之后 运行 ./script.sh 运行后看图下的操作，简单明了
+
+![image](https://github.com/user-attachments/assets/1c5ede6d-876f-48f5-9f4a-a0bc6a891520)
+
+
