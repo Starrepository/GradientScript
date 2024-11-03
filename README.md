@@ -90,6 +90,7 @@ TG群：https://t.me/Web3um
 * 把挂机账号.txt的内容复制到task.txt *
 * 然后运行 2 就可以跑节点内容了
 * 注意 task.txt内容可以不修改，每次生成的挂机账号添加进去就可以了
+
 ![image](https://github.com/user-attachments/assets/1f3b8b45-4759-4e97-b4b5-2396c64f361c)
 
 
