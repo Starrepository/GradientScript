@@ -55,12 +55,46 @@ TG群：https://t.me/Web3um
 
 
 ## 节点启动 和 维护
-### 傻瓜教程
 > Windows 就用 Win.bat \ Linux --> Linux.sh \ MacOs --> Mac.sh
 >
 > 
 > (Linux例子)第一次使用 配置文件和代理修改好之后 运行 ./Linux.sh 运行后看图下的操作，简单明了
 
 ![image](https://github.com/user-attachments/assets/1c5ede6d-876f-48f5-9f4a-a0bc6a891520)
+
+### 详细教程 （Windows为列 其他平台都一样）
+## 首次使用 需要生成 节点信息
+> 1. 修改 users.txt
+
+- 格式 : 账号:密码:节点数量 一行一个
+
+![image](https://github.com/user-attachments/assets/0913d791-b50e-49da-9dbb-824c5d9da4e2)
+
+> 2. 添加代理
+
+- 支持所有通用的代理格式
+- eg: socks5://127.0.0.1:1080 、socks5://user:pass@127.0.0.1:1080
+- eg: http(s)://127.0.0.1:1080 、http(s)://user:pass@127.0.0.1:1080
+
+注意分配足够的代理
+
+![image](https://github.com/user-attachments/assets/b0b7702b-a473-414c-bb2f-5e1e4d99325f)
+
+> 3. 使用脚本运行&维护
+
+第一次运行 Win.bat 选择 1 生成节点信息
+![image](https://github.com/user-attachments/assets/39f1bf88-16c2-4085-b715-c52b21b561d1)
+
+运行成功后 会在 config目录生成一个 挂机账号.txt 这个就是你的节点信息了，后面维护就也只维护这个
+
+* 把挂机账号.txt的内容复制到task.txt *
+* 然后运行 2 就可以跑节点内容了
+* 注意 task.txt内容可以不修改，每次生成的挂机账号添加进去就可以了
+![image](https://github.com/user-attachments/assets/1f3b8b45-4759-4e97-b4b5-2396c64f361c)
+
+
+
+  
+
 
 
