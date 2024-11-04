@@ -94,6 +94,9 @@ TG群：https://t.me/Web3um
 ![image](https://github.com/user-attachments/assets/1f3b8b45-4759-4e97-b4b5-2396c64f361c)
 
 
+## 视频教程
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ig5gIVplsmU/0.jpg)](https://www.youtube.com/watch?v=ig5gIVplsmU)
 
   
 
