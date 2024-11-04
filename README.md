@@ -9,6 +9,8 @@ TG群：https://t.me/Web3um
 - 解除对电脑性能的限制（1g1h 照样跑几千节点）
 - 支持多平台系统
 
+> 视频教程 在下方
+
 ## 效果图片
 ![telegram-cloud-photo-size-1-4904524851994279271-y](https://github.com/user-attachments/assets/05a60a43-1436-4cab-9a0b-059fc659ea5a)
 ![image](https://github.com/user-attachments/assets/f184bd0b-f31e-4b92-9cfd-fb33d65c4829)
@@ -96,7 +98,7 @@ TG群：https://t.me/Web3um
 
 ## 视频教程
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ig5gIVplsmU/0.jpg)](https://www.youtube.com/watch?v=ig5gIVplsmU)
+![Gradient教程](https://res.cloudinary.com/marcomontalbano/image/upload/v1730697635/video_to_markdown/images/youtube--ig5gIVplsmU-c05b58ac6eb4c4700831b2b3070cd403.jpg)]
 
   
 
